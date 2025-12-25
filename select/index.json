@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Brighter (Acoustic Ver.)",
+  "base_artist": "INI",
+  "createdAt": "2025-12-25T09:34:07.618805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brighter (Acoustic Ver.)",
+      "artist": "INI",
+      "has_synced": true,
+      "path": "select/01_Brighter_(Acoustic_Ver.)_INI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brighter - Acoustic Ver.",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_Brighter_-_Acoustic_Ver._INI.txt"
+    }
+  ]
+}
